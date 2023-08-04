@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "react-icons": "^4.10.1",
+    "react-image-magnify": "^2.7.4",
+    "swiper": "^10.1.0"
+  }
+}
